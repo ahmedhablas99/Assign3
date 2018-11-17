@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1514140574 source:c:\users\ahmed\documents\c++\ass3\main.cpp
+	<iostream>
+
+1542486550 source:c:\users\ahmed\documents\c++\ass3\src\out.cpp
+	"OUT.h"
+	<iostream>
+
+1542486585 c:\users\ahmed\documents\c++\ass3\include\out.h
+
+1542486657 source:c:\users\ahmed\documents\c++\ass3\src\in.cpp
+	"IN.h"
+	<iostream>
+
+1542486626 c:\users\ahmed\documents\c++\ass3\include\in.h
+
+1542486943 source:c:\users\ahmed\documents\c++\ass3\src\vmachine.cpp
+	"VMACHINE.h"
+	"OUT.h"
+	"IN.h"
+	<iostream>
+
+1542486956 c:\users\ahmed\documents\c++\ass3\include\vmachine.h
+
